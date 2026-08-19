@@ -1,0 +1,10 @@
+{
+  "apiSurface": "clients/api-surface.json",
+  "apiSurfaceSha256": "3d676e6b6541a560bbe8eafb962fd599890cf3338be836d0757186c770e983c8",
+  "coordinate": "embedded-alerts/embedded-alerts-clients",
+  "runtime": "ruby",
+  "schemaId": "https://zpkg.tech/schemas/client-api.schema.json",
+  "schemaVersion": 1,
+  "target": "ruby",
+  "zedTarget": "ruby"
+}
