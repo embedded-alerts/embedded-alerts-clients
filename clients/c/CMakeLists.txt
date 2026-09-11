@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.20)
+project(embedded_alerts_client C)
+add_library(embedded_alerts_client src/embedded_alerts_client.c)
+target_include_directories(embedded_alerts_client PUBLIC include)
+target_compile_features(embedded_alerts_client PUBLIC c_std_11)
