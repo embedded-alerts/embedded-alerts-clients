@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.20)
+project(embedded_alerts_client_cpp CXX)
+add_library(embedded_alerts_client_cpp INTERFACE)
+target_include_directories(embedded_alerts_client_cpp INTERFACE include)
+target_compile_features(embedded_alerts_client_cpp INTERFACE cxx_std_17)
