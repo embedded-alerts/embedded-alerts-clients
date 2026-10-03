@@ -1,0 +1,11 @@
+{
+  "apiSurfaceSha256": "02af23f6018ab353776dda0c8d3c59a2271d69dd12eeb7817e2143c247489455",
+  "changed": [],
+  "errors": [],
+  "minimumTargets": 15,
+  "mode": "write",
+  "prefix": "embedded-alerts",
+  "repository": "embedded-alerts/embedded-alerts-clients",
+  "schemaVersion": 1,
+  "standardTargets": 20
+}
